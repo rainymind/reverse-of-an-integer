@@ -1,8 +1,8 @@
-% Get the number from the user
+% Get the number from the user.
 num = input('Please enter an integer: ');
 
-% Calculate the reverse number
+% Calculate the reverse number.
 reverse_num = str2double(fliplr(num2str(num)));
 
-% Display the result
+% Display the result.
 fprintf('Reverse number: %d\n', reverse_num);
