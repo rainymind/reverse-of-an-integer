@@ -1,7 +1,8 @@
+% 56000000000000000000
 % Get the number from the user.
 num = input('Please enter an integer: ');
 
-% Calculate the reverse number.56000000000000000000
+% Calculate the reverse number.
 reverse_num = str2double(fliplr(num2str(num)));
 
 % Display the result.
