@@ -1,4 +1,4 @@
-% 56000000000000000000
+% 0000000000
 % Get the number from the user.
 num = input('Please enter an integer: ');
 
